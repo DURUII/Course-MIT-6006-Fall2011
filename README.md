@@ -4,7 +4,7 @@
 
 | Flag | Lecture & Recitation                                                                     | Assignments   |
 |:----:|:-----------------------------------------------------------------------------------------|:--------------|
-|      | 1: Algorithmic thinking, peak finding                                                    | Problem set 1 |
+|  ✅  | 1: Algorithmic thinking, peak finding                                                    | Problem set 1 |
 |      | 2: Models of computation, Python cost model, document distance                           |               |
 |      | 3: Insertion sort, merge sort                                                            | Problem set 2 |
 |      | 4: Heaps and heap sort                                                                   |               |
@@ -34,3 +34,8 @@
 | Lecture | OJ Link                                                                                                                  |
 |:-------:|--------------------------------------------------------------------------------------------------------------------------|
 |    1    | [寻找峰值](https://leetcode.cn/problems/find-peak-element/), [寻找峰值 II](https://leetcode.cn/problems/find-a-peak-element-ii/) |
+
+## Reference
+
+1. http://courses.csail.mit.edu/6.006/fall11/psets.shtml
+2. https://courses.csail.mit.edu/6.006/fall10/notes.shtml
